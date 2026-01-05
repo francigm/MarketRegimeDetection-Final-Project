@@ -1,0 +1,2 @@
+model,score,criteria,reason,all_scores
+HMM,0.6022371608634673,"{'avg_sharpe': np.float64(0.5861570992656667), 'bic': np.float64(14558.845711582946), 'avg_volatility': np.float64(0.22140516027535262)}","Best composite score based on Sharpe, model quality metrics, and volatility","{'GMM': np.float64(0.4734706401402097), 'HMM': np.float64(0.6022371608634673), 'K-Means': np.float64(-0.08415000457764969)}"

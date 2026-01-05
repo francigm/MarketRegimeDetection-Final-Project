@@ -1,4 +1,4 @@
-# Market Regime Detection and Risk Analysis using Gaussian Mixture Models
+# Market Regime Detection and Risk Analysis
 
 ## Project Description
 
